@@ -183,10 +183,10 @@ Confirm the deletion to remove the document from the system.
 ## Team Tab:
 Team Members Tab:
 Explore the brains behind CREDENTIAL VERIFICATION SERVICE USING BLOCKCHAIN. Meet our dedicated team members who contribute to making this application possible.
-![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/bf76e88e-dd4d-4376-8ca9-e9d3f1ed2f73)
+![Screenshot (53)](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/a51684d0-f70b-49bc-852e-c1aef00913df)
 
 
-Below is the Smart contract execution screenshot. that is executed in the Remix IDE.
+## Below is the Smart contract execution screenshot. that is executed in the Remix IDE.
 
 ![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/77ac6b71-d763-429b-bc68-024624e40fa7)
 
