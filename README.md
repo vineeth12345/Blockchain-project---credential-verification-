@@ -140,9 +140,50 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## Usage and Project Screenshots:
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples, and demos work well in this space. You may also link to more resources.
+## HomePage Of the Application.
+![Screenshot (52)](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/db896645-2c98-42d2-8de0-ecc4c626028d)
+
+## University  Registration:
+To begin, register your college by providing the Metamask address and the university name.
+Explorer Management:
+If a university needs to withdraw from the project, select the "Delete Explorer" option. You'll be prompted to enter credentials for authentication.
+If a university needs to update its information, choose "Edit Explorer" to make the necessary changes.
+![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/7ccd3c01-c535-433b-a8f7-15c4c423ee35)
+
+## UPLOAD CERTIFICATE
+Click on "Choose File" to select the certificate you want to upload.
+Document Submission:
+After selecting the file, click on "Upload Document."
+Metamask Confirmation:
+Metamask will prompt you for confirmation. If you have sufficient Ether, click on "Confirm" to proceed with the transaction.
+
+QR Code Generation:
+Upon successful confirmation, a QR code will be generated to Verify the Document.
+![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/022d73ef-3786-4804-bb06-f85d3e9eebd8)
+
+## Verify: 
+File Verification:
+Choose the file you want to verify by clicking on "Choose File."
+Verification Process:
+Initiate the verification process by selecting the file.
+Confirmation:
+Upon successful verification, a message will be displayed confirming that the certificate is original.
+![verify](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/6a94dfa1-a010-437e-9250-010b877192a2)
+
+## Delete:
+Document Management:
+If a document needs to be removed or replaced, click on "Delete Document."
+Confirmation:
+Confirm the deletion to remove the document from the system.
+![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/27179a57-0bbe-49fb-a5f1-8491ecee1721)
+
+## Team Tab:
+Team Members Tab:
+Explore the brains behind CREDENTIAL VERIFICATION SERVICE USING BLOCKCHAIN. Meet our dedicated team members who contribute to making this application possible.
+![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/bf76e88e-dd4d-4376-8ca9-e9d3f1ed2f73)
+
 
 Below is the Smart contract execution screenshot. that is executed in the Remix IDE.
 
