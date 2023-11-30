@@ -161,11 +161,12 @@ Metamask will prompt you for confirmation. If you have sufficient Ether, click o
 
 QR Code Generation:
 Upon successful confirmation, a QR code will be generated to Verify the Document.
-![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/022d73ef-3786-4804-bb06-f85d3e9eebd8)
+![upload](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/ae22e874-552b-49aa-99f4-0be9f18400a2)
+
 
 ## Verify: 
 File Verification:
-Choose the file you want to verify by clicking on "Choose File."
+verify the document by clicking on the "verify Document Tab."
 Verification Process:
 Initiate the verification process by selecting the file.
 Confirmation:
