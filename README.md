@@ -144,6 +144,13 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+- Below is the Smart contract execution screenshot. that is executed in the Remix IDE.
+![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/77ac6b71-d763-429b-bc68-024624e40fa7)
+
+![image](https://github.com/vineeth12345/Blockchain-project---credential-verification-/assets/38714658/55e972c9-de2a-41df-8b20-ee501dcfafea)
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
